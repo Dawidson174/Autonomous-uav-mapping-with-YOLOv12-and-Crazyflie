@@ -1,0 +1,5 @@
+cflib
+opencv-python
+ultralytics
+numpy
+pynput
